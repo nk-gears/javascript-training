@@ -1,2 +1,2 @@
-[X]Created Git account : Done
-[X]clone the repo : Done
+- [x] Created Git account : Done
+- [x] clone the repo : Done
