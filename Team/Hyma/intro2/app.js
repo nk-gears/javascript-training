@@ -1,9 +1,16 @@
-var noOfTickets = prompt("How much Tickets you want");
-let destination = prompt("Where do you want to Travel");
-let discount=15/100;
+const noOfTicketsInput = prompt("How much Tickets you want");
+const destination = prompt("Where do you want to Travel");
+const ticketPrice=500;
+const noOfTickets=parseInt(noOfTicketsInput);
+let totalAmt= noOfTickets*ticketPrice;
+
 if(noOfTickets>3){
-    alert("Total Ticket Amount:",noOfTickets*500 - discount);
-}else{
-    alert("Total Ticket Amount:",noOfTickets*500);
+    const discount=15/100;
+    const discounted=totalAmt * discount;
+    totalAmt=totalAmt - discounted;
 }
 
+/************************** */
+alert("Total Ticket Cost : " + (totalAmt-10).toString());
+alert(`Total Ticket Cost : ${totalAmt}`);
+console.log(`Total Ticket Cost : ${totalAmt}`);
