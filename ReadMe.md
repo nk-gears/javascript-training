@@ -1,4 +1,4 @@
-# Practice Python
+# Javascript Training - Practices
 
 This repository contains the session notes of Javascript and also contains the exercises done by the team
 
