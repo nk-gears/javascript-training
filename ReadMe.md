@@ -24,14 +24,14 @@ The following are the areas will be covered in this Training Session
 
 
 ### Exercises
-- [Arjun](Arjun/)
-- [BalaKarthik](BalaKarthik/)
-- [BalaKumar](BalaKumar/)
-- [Hemnath](Hemnath/)
-- [Hyma](Hyma/)
-- [Sudha](Sudha/)
-- [Rajdeep](Rajdeep/)
-- [Rizwan](Rizwan/)
+- [Arjun](Team/Arjun/)
+- [BalaKarthik](Team/BalaKarthik/)
+- [BalaKumar](Team/BalaKumar/)
+- [Hemnath](Team/Hemnath/)
+- [Hyma](Team/Hyma/)
+- [Sudha](Team/Sudha/)
+- [Rajdeep](Team/Rajdeep/)
+- [Rizwan](Team/Rizwan/)
 
 
 
