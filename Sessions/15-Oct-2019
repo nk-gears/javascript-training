@@ -1,0 +1,14 @@
+
+
+- [x] Difference of map and Foreach in Detail Level
+- [x] Type Conversions
+- [x] Working with JSON.parse - Basic
+- [x] Array Sorting - Nirmal has to reply on Sorting Text using > <
+- [x] Primitive and Reference Objects
+    - Int,Numbers,String Creates new alocation. Whereas Objects
+    retains the memory pointers. Its not a direct copy but a refernece to original data
+- [x] spread operator (...) Copy Object Properties Including arrays
+- [x] Functions : declaring function, usage of Arrow Funtions
+- [x] When to use => and function keywords (this statement)
+- [x] Basic JSON Structure with Functions also
+- [x] Looping through a Object using Object.keys (useful for Copying properties)

@@ -11,12 +11,13 @@ The following are the areas will be covered in this Training Session
 - [x] Javascript History
 - [x] Javascript Language : Variables,Constants
 - [x] DataTypes (Strings, Numbers,Literals,Arrays)
-- [ ] Type Conversions
+- [x ] Type Conversions
 - [x] Working with Null & Undefined
 - [x] Working with Boolean
 - [x] Try Catch
 - [x] Array Operations : push,concat,pop,slice
 - [x] foreach, map
+- [ ] Primitive & Object References
 
 
 
