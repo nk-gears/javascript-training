@@ -1,1 +1,2 @@
-- [x] Created Repo Name : Done
+- [x] Create Repository Name
+- [x] Clone Repository
