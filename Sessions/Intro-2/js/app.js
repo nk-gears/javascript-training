@@ -80,7 +80,7 @@ let y = 5.3;
 
 
 //String Literals
-//alert(`Pay Bill Amount ${actualCount*3}`);
+alert(`Pay Bill Amount ${actualCount*3}`);
 
 let categories=`Jan
 Feb
