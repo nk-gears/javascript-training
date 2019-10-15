@@ -2,4 +2,4 @@
 - [x] Live Server Extension Installed
 - [x] app.js File Created
 - [x] Home Work Completed: Total Price Calculated, 15% Discount Applied for More than 3 tickets
-- [x] Code committed and pushed
+- [x] Code committed and pushed!
