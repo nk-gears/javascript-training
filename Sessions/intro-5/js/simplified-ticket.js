@@ -33,6 +33,7 @@ function compareStoreName(store1, store2){
 
 //console.log(shopNames.sort(compareStoreName));
 const compareStoreNames=(store,nextStore)=> store.name < nextStore.name ? 1 : store.name > nextStore.name ? -1 : 0;
+
 console.log(shopNames.sort(compareStoreNames));
 
 /*
