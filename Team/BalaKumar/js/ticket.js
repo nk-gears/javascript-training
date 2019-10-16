@@ -1,7 +1,7 @@
-let ticketRequired=prompt("How much ticket you wanted");
-let ticketPrice=60;
-let travelLocation="London";
-let totalPrice= ticketRequired*ticketPrice;
+const ticketRequired=prompt("How much ticket you wanted");
+const ticketPrice=60;
+const travelLocation="London";
+const totalPrice= ticketRequired*ticketPrice;
 alert(`Total Ticket Price: ${totalPrice}`);
 
 if(ticketRequired>3)

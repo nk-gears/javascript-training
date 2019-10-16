@@ -57,3 +57,8 @@ console.log(computeAreaOfCircle(4,sqr));
 
 //window
 console.log(employeReport.computeBonus());
+
+
+///Solution1 : calling(worldReport)
+///Solution2 : calling(worldReport)
+///Solution3 : calling(worldReport)
