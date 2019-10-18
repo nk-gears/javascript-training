@@ -25,7 +25,7 @@ for(j=0;j<10;j++){
       
     
     
-    // Topics Covered
+// Topics Covered
 //  ARIA, DOM, Controlling HTML/CSS via Javascript
 //  ID Selectors, CSS Selectors
 // Query Selectors
