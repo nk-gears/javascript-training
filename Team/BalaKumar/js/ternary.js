@@ -1,8 +1,8 @@
-let x=34;
+let x=88;
 let y=88;
-let z=160;
+let z=34;
 let largestNum= (x>y && x>z) ? x : (y>x && y>z) ? y : z;
-alert(largestNum);
+console.log(largestNum);
 
 Hypostheses
 
